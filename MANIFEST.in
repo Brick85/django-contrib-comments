@@ -1,0 +1,2 @@
+recursive-include django_comments/templates *
+recursive-include django_comments/locale *
